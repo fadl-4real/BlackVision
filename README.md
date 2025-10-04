@@ -3,13 +3,13 @@
 
 BlackVision is a scalable multi-spectral observatory for black holes, integrating optical, infrared, and radio modules to capture synchronized datasets. It reconstructs event-horizon emissions in real time and visualizes how matter near black holes may appear “frozen” from Earth. NASA datasets and peer-reviewed research guide simulation, validation, and design.
 
-## Features
+## Features ✨
 - Multi-spectral observation (optical, IR, radio)
 - Real-time 3D black hole simulation
 - Scalable CAD-based observatory designs
 - Open data integration and visualization
 
-## NASA Data
+## NASA Data 🛰️
 - Sagittarius A* 2021 JSON dataset (radio + IR emissions)
 - M87 2019 Event Horizon Telescope image
 - Black Hole Astrophysics in the New Century
@@ -21,26 +21,21 @@ BlackVision is a scalable multi-spectral observatory for black holes, integratin
 - DSDS+ End-to-End Data System evaluation
 - NASA Astrophysics Update (Paul Hertz)
 
-## Space Agency Partner & Other Data
+## Space Agency Partner & Other Data 🤝
 - Harvard research publications leveraging NASA data
 - NASA Long-Term Astrophysics Data Archives
 - All data is open-access or publicly available (no MIT license restrictions)
 
-## Tools & Technologies
+## Tools & Technologies 🛠️
 - AutoCAD for CAD modeling
-- VS Code (JavaScript, HTML, CSS) for simulation
+- VS Code (JavaScript, HTML, CSS, React) for simulation
 - Zenodo for hosting research references
 - AI Tools: BlackBox (debugging), ChatGPT (documentation), Gemini (image recognition)
 
-## Usage
-1. Open `index.html` in a browser to run the 3D simulation.
-2. Use `main.js` for interaction with the simulation layers.
-3. Explore CAD files in `cad/` for module designs.
-4. Reference datasets in `data/` for validation or further analysis.
+## Usage 🚀
+Download `simulatedcanvas.js`, `blackhole.js`, and `scene.gltf`.  
+Run the React app from the VS Code terminal and enjoy the interactive black hole simulation.
 
-## Documentation
-See `docs/BlackVision_Documentation.pdf` for full project details, NASA data usage, AI usage, and high-level summaries.
-
-## License
-This project is licensed under MIT License.
+## Documentation 📄
+See `BlackVision.pdf` for full project details, NASA data usage, AI usage, and high-level summaries.
 
