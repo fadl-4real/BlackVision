@@ -25,6 +25,7 @@ BlackVision is a scalable multi-spectral observatory for black holes, integratin
 - Harvard research publications leveraging NASA data
 - NASA Long-Term Astrophysics Data Archives
 - All data is open-access or publicly available (no MIT license restrictions)
+- <img width="811" height="390" alt="image" src="https://github.com/user-attachments/assets/07040f7a-730c-4746-b60c-a9d4995a8a4b" />
 
 ## Tools & Technologies 🛠️
 - AutoCAD for CAD modeling
