@@ -1,53 +1,70 @@
-# 🚀 BlackVision – Multi-Spectral Black Hole Observatory  
+# Getting Started with Create React App
 
-**BlackVision** is a scalable, next-generation observatory concept that integrates **optical, infrared, and radio modules** into a single system.  
-Its mission: to provide **synchronized, multi-spectral datasets** for black hole observation, enabling humanity’s first systematic step toward mapping the most extreme structures in the universe.  
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
----
+## Available Scripts
 
-## 🔑 Features
-- **Optical Module** – Captures gravitational lensing and matter motion near event horizons.  
-- **Infrared Module** – Penetrates dust and gas clouds, revealing structures hidden from standard telescopes.  
-- **Radio Module** – Detects delayed emissions and jet activity escaping extreme gravity.  
-- **3D Simulation** – Validates system design using NASA’s *SatAG A (2021)* dataset (radio + IR emissions).  
+In the project directory, you can run:
 
----
+### `npm start`
 
-## 📊 Data
-- **NASA Dataset Used:** *2021 SatAG A JSON file (radio + infrared emissions).*  
-- Applied to validate the **event-horizon emission ring reconstruction** and produce real-time multi-spectral simulations.  
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
----
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-## 🛠 Tools & Tech
-- **Software:** AutoCAD (CAD design), VS Code (development).  
-- **Languages:** JavaScript, CSS, HTML.  
-- **Research Hosting:** Zenodo (open-access research paper).  
+### `npm test`
 
----
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-## 🤖 AI Usage
-AI assistance was used only for **simulation code support** (3D rendering in JavaScript).  
-All **physics models, datasets, and analysis** are based on NASA data and manual research.  
+### `npm run build`
 
----
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-## 📂 Repository Structure
-BlackVision/
-│
-├── README.md # Project overview
-├── docs/
-│ ├── BlackVision_Final_Project.pdf # Full project documentation
-│ └── presentation_slides.pdf # 7-slide presentation
-│
-├── src/
-│ ├── simulation.js # 3D simulation (NASA dataset driven)
-│ ├── styles.css # Visualization styling
-│ └── index.html # Landing page for demo
-│
-├── cad/
-│ ├── blackvision_cad_sideview.png
-│ └── blackvision_cad_diagram.png
-│
-├── data/
-└── satagA_2021.json # NASA dataset (radio + IR emissions)
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
