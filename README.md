@@ -32,6 +32,10 @@ BlackVision is a scalable multi-spectral observatory for black holes, integratin
 - VS Code (JavaScript, HTML, CSS, React) for simulation
 - Zenodo for hosting research references
 - AI Tools: BlackBox (debugging), ChatGPT (documentation), Gemini (image recognition)
+-<img width="898" height="378" alt="image" src="https://github.com/user-attachments/assets/fe5027f8-c549-4ba0-a47b-ed378cda225a" />
+
+- <img width="593" height="916" alt="image" src="https://github.com/user-attachments/assets/e5a53531-f280-483a-932c-aa874c750891" />
+
 
 ## Usage 🚀
 Download `simulatedcanvas.js`, `blackhole.js`, and `scene.gltf`.  
